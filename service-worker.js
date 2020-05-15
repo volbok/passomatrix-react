@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/passomatrix-react/precache-manifest.008274743e3d945fb2824c36c4237220.js"
+  "/passomatrix-react/precache-manifest.1ba8b7b290a543ab4d61029edab43283.js"
 );
 
 self.addEventListener('message', (event) => {
