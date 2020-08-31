@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/passomatrix-react/static/css/main.99b38636.chunk.css",
-    "main.js": "/passomatrix-react/static/js/main.0399beab.chunk.js",
-    "main.js.map": "/passomatrix-react/static/js/main.0399beab.chunk.js.map",
+    "main.js": "/passomatrix-react/static/js/main.2b2b4f69.chunk.js",
+    "main.js.map": "/passomatrix-react/static/js/main.2b2b4f69.chunk.js.map",
     "runtime-main.js": "/passomatrix-react/static/js/runtime-main.76d8762a.js",
     "runtime-main.js.map": "/passomatrix-react/static/js/runtime-main.76d8762a.js.map",
     "static/css/2.bd9f87bb.chunk.css": "/passomatrix-react/static/css/2.bd9f87bb.chunk.css",
     "static/js/2.2b02dc4f.chunk.js": "/passomatrix-react/static/js/2.2b02dc4f.chunk.js",
     "static/js/2.2b02dc4f.chunk.js.map": "/passomatrix-react/static/js/2.2b02dc4f.chunk.js.map",
     "index.html": "/passomatrix-react/index.html",
-    "precache-manifest.558100f8819cb08e4b1b244f2708693d.js": "/passomatrix-react/precache-manifest.558100f8819cb08e4b1b244f2708693d.js",
+    "precache-manifest.26de84989bc93bf3ce1d68a785b6739f.js": "/passomatrix-react/precache-manifest.26de84989bc93bf3ce1d68a785b6739f.js",
     "service-worker.js": "/passomatrix-react/service-worker.js",
     "static/css/2.bd9f87bb.chunk.css.map": "/passomatrix-react/static/css/2.bd9f87bb.chunk.css.map",
     "static/css/main.99b38636.chunk.css.map": "/passomatrix-react/static/css/main.99b38636.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.bd9f87bb.chunk.css",
     "static/js/2.2b02dc4f.chunk.js",
     "static/css/main.99b38636.chunk.css",
-    "static/js/main.0399beab.chunk.js"
+    "static/js/main.2b2b4f69.chunk.js"
   ]
 }
