@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de8243e638caad464d23daff913439e3",
+    "revision": "1f3d58deb97a0fbaf2e10926e275e542",
     "url": "/passomatrix-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/passomatrix-react/static/css/2.bd9f87bb.chunk.css"
   },
   {
-    "revision": "24d0345c96c7facde32a",
+    "revision": "ecd8a2870f5e92c26ffb",
     "url": "/passomatrix-react/static/css/main.9e047015.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/passomatrix-react/static/js/2.2b02dc4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24d0345c96c7facde32a",
-    "url": "/passomatrix-react/static/js/main.1530eec9.chunk.js"
+    "revision": "ecd8a2870f5e92c26ffb",
+    "url": "/passomatrix-react/static/js/main.7e1fb83c.chunk.js"
   },
   {
     "revision": "00421612ca89ba83caac",
